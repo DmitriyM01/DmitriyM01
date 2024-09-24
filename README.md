@@ -1,6 +1,9 @@
 # Hello! 👋
 
 My name is Dmitrii Mironov, I am a student at Hexlet College, studying web development. My focus is on frontend, but I'm gradually learning DevOps and backend with Java.
+<a href="t.me/IIsllaw">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
 
 - 🔭 Currently working on educational projects
 - 🌱 Deepening my knowledge in **React**, **Redux**, **JavaScript**, **CSS**, **HTML**, and learning applied frameworks
