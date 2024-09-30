@@ -11,4 +11,3 @@ My name is Dmitrii Mironov, I am a student at Hexlet College, studying web devel
 - 🤔 Interested in improving user interfaces and web applications
 - 💼 My tech stack: HTML, CSS, JavaScript, React, Redux Toolkit, Git. Familiar with Bootstrap and Tailwind.
 - 📫 You can reach me at [mironowd697@gmail.ru](mailto:mironowd697@gmail.com)
-- 💻 GitHub: [Your GitHub link](https://github.com/DmitriyM01)
