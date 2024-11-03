@@ -6,8 +6,7 @@ My name is Dmitrii Mironov, I am a student at Hexlet College, studying web devel
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
 
-- 🔭 Currently working on educational projects
-- 🌱 Deepening my knowledge in **React**, **Redux**, **JavaScript**, **CSS**, **HTML**, and learning applied frameworks
+- 🌱 Deepening my knowledge in **React**, **Redux**, **TypeScript**, **JavaScript**, **CSS**, **HTML**, and learning applied frameworks
 - 🤔 Interested in improving user interfaces and web applications
 - 💼 My tech stack: HTML, CSS, JavaScript, React, Redux Toolkit, Git. Familiar with Bootstrap and Tailwind.
 - 📫 You can reach me at [mironowd697@gmail.ru](mailto:mironowd697@gmail.com)
